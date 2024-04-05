@@ -1,3 +1,5 @@
+package test3;
+
 public class test3_3 {
     public static void main(String[] args) {
         float d = 10.0f; // float는 꼭 f붙일것

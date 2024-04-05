@@ -1,3 +1,5 @@
+package test3;
+
 public class test3_8 {
     private int num;
     public test3_8(int num){
